@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(33, 3, 61);
+}
+h1{
+    color: white;
+}
+placeholder{
+    color: darkgrey;
+}
+.test{
+    color: brown;
+}
+button{
+    background-color: rgb(182, 35, 37);
+    padding: 12px 15px;
+    border-radius: 12px;
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    width: 300px;
+    background-color: rgb(64, 23, 103);
+    padding: 12px 15px;
+    color: white;
+    border-radius: 12px;
+    
+}
+
